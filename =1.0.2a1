@@ -1,0 +1,4 @@
+Requirement already satisfied: recognizers-text in e:\ms bots\bot3\venv\lib\site-packages (1.0.2a2)
+Requirement already satisfied: multipledispatch in e:\ms bots\bot3\venv\lib\site-packages (from recognizers-text) (0.6.0)
+Requirement already satisfied: emoji in e:\ms bots\bot3\venv\lib\site-packages (from recognizers-text) (1.6.1)
+Requirement already satisfied: six in e:\ms bots\bot3\venv\lib\site-packages (from multipledispatch->recognizers-text) (1.16.0)
